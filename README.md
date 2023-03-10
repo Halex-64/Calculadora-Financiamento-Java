@@ -1,3 +1,3 @@
 # Calculadora-Financiamento-Java
-Uma Calculadora que calcula financiamentos 
+Uma Calculadora feita em Java que é capaz de calcular financiamentos. 
 Provavel que seja necessario utilizar o VsCode para utilizar.
